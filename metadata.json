@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Solana Token Hook Generator",
+  "description": "An AI-powered tool to generate Solana smart contracts for tokens with advanced features like time-locked resale hooks. Define your token, configure the hook, and get the complete Rust code and deployment instructions.",
+  "requestFramePermissions": []
+}
